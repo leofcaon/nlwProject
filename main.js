@@ -1,9 +1,9 @@
 const linksSocialMedia = {
-  github = "leofcaon",
-  youtube = "",
-  facebook = "",
-  instagram = "leonardofcaon",
-  twitter = "leofcaon"
+  github: 'leofcaon',
+  youtube: '',
+  facebook: '',
+  instagram: 'leonardofcaon',
+  twitter: 'leofcaon'
 }
 
 function changeSocialMediaLinks() {
